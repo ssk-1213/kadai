@@ -4,6 +4,8 @@
 2.Collaboratorsを追加する
 <img width="1885" height="947" alt="スクリーンショット 2026-08-24 161635" src="https://github.com/user-attachments/assets/3c2661fe-9b63-46ba-82a1-bfb4e61037f1" />
 3. Bがリポジトリをcloneし、作業ブランチを作成。を編集してPushし、Aへプルリクエストを出す。
+<img width="1899" height="899" alt="スクリーンショット 2026-08-24 163644" src="https://github.com/user-attachments/assets/3b69deac-06cc-4c2e-b3bf-bd9388996f80" />
+<img width="747" height="112" alt="スクリーンショット 2026-08-24 164128" src="https://github.com/user-attachments/assets/398a72f9-bd04-45f8-8b57-fc5dd5fe9e86" />
 4. AがBのプルリクエストをレビューし、ブランチにマージする。
 5. Aがローカルのブランチを最新化（pull）し、作業ブランチを作成。を編集してPRを作成・マージする。
 6. Bがローカルのブランチを最新化（pull）し、作業ブランチを作成。を追加してAへプルリクエストを出す。
