@@ -9,5 +9,6 @@
 4. AがBのプルリクエストをレビューし、ブランチにマージする。
 <img width="1906" height="947" alt="スクリーンショット 2026-08-24 135834" src="https://github.com/user-attachments/assets/f3430dda-93e8-4c3b-b05c-f4c27603754d" />
 5. Aがローカルのブランチを最新化（pull）し、作業ブランチを作成。を編集してPRを作成・マージする。
+<img width="724" height="953" alt="スクリーンショット 2026-08-24 170409" src="https://github.com/user-attachments/assets/a5731146-cc1c-4ab4-8cfb-46b8be4764b9" />
 6. Bがローカルのブランチを最新化（pull）し、作業ブランチを作成。を追加してAへプルリクエストを出す。
 7. AがBのプルリクエストをレビューし、ブランチにマージする。
