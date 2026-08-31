@@ -1,6 +1,6 @@
 # 手順
 1. AがGitHub上にリモートリポジトリを用意し、（Helloと記述）をブランチにPushする。
-2. 
+
 <img width="1005" height="477" alt="スクリーンショット 2026-08-24 160526" src="https://github.com/user-attachments/assets/2583ec7b-cb9f-4655-ad86-d4c1f9e40eb4" />
 
 2.Collaboratorsを追加する
